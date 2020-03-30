@@ -1,2 +1,9 @@
 # tweet-lite
-Versión lite de gestión de tweets
+
+Proyecto que consiste en emular el funcionamiento de los tweets utilizando LocalStorage del navegador utilizado.
+
+## Lenguajes utilizados :computer:
+
+- HTML5
+- CSS3
+- Vanilla Javascript
